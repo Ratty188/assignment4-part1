@@ -1,0 +1,29 @@
+Start: Fri, 6 Feb 2015 17:00:00 -0800
+Start: Fri, 6 Feb 2015 19:45:00 -0800
+Tasks: Start working on the multtable.php portion of the project. Write the part of the program that will check the inputs and make sure they are integers and that minimum is not less than maximum. Also write HTML file for testing.
+
+Start: Sat, 7 Feb 2015 8:00:00 -0800
+Start: Sat, 7 Feb 2015 9:30:00 -0800
+Tasks: Write the portion of the Multtable.php file that will print out the multiplication table. I strugled for a while to get everything lined up correctly.
+
+Start: Sat, 7 Feb 2015 9:30:00 -0800
+Start: Sat, 7 Feb 2015 12:30:00 -0800
+Tasks: I spent a while on this file just looking at how to get the values that I would need such as get or post requests and parameters. I spent a lot of time figuring out the $_SERVER variable and how to get information from it. I read a lot of stuff on stack overflow which lead me to the foreach function but I still had to mess with it to make it work.
+
+Start: Sat, 7 Feb 2015 12:30:00 -0800
+Start: Sat, 7 Feb 2015 14:00:00 -0800
+Tasks: Same as above. Just took a break.
+
+Start: Sat, 7 Feb 2015 14:00:00 -0800
+Start: Sat, 7 Feb 2015 14:30:00 -0800
+Tasks: Wrote the login.php file so that I could pass information to the contents1.php file.
+
+Start: Sat, 7 Feb 2015 15:00:00 -0800
+Start: Sat, 7 Feb 2015 18:30:00 -0800
+Tasks: Watched the lecture video on sessions multiple times then recreated the lecture code in my php file so I could start messing around with it. I deleted/commented out items to see what would happen and if any errors would occur. Once I was done tinkering with the program I started adding to it in order to meet the requirements. I got everything done except the following: logout function, hyperlinks back to login, and redirect for navigating to a page while not logged in.
+
+Start: Sat, 7 Feb 2015 18:00:00 -0800
+Start: Sat, 7 Feb 2015 22:00:00 -0800
+Tasks: Worked for the longes time trying to get the redirect function and hyperlinks to work together. I could get one or the other working but not both at the same time. I searched everywhere on the internet and watched the video several times. I found the solution when the lecture video discussed the fact that it was usint plain text content because no HTML functionality was used. I had inserted this into my function and it was causing my hyperlinks to be written in plain text. Once I found that solution the rest of the program was finished.
+
+
